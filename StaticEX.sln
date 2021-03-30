@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticEX", "StaticEX.csproj", "{1F360D80-D932-4E02-81CA-328CD729D148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F360D80-D932-4E02-81CA-328CD729D148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F360D80-D932-4E02-81CA-328CD729D148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F360D80-D932-4E02-81CA-328CD729D148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F360D80-D932-4E02-81CA-328CD729D148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4467980E-4FF5-4A8C-B557-9E3151B20913}
+	EndGlobalSection
+EndGlobal

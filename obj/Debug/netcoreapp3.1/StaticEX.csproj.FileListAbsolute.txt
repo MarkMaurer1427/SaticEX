@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\bin\Debug\netcoreapp3.1\StaticEX.exe
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\bin\Debug\netcoreapp3.1\StaticEX.deps.json
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\bin\Debug\netcoreapp3.1\StaticEX.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\bin\Debug\netcoreapp3.1\StaticEX.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\bin\Debug\netcoreapp3.1\StaticEX.dll
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\bin\Debug\netcoreapp3.1\StaticEX.pdb
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\obj\Debug\netcoreapp3.1\StaticEX.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\obj\Debug\netcoreapp3.1\StaticEX.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\obj\Debug\netcoreapp3.1\StaticEX.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\obj\Debug\netcoreapp3.1\StaticEX.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\obj\Debug\netcoreapp3.1\StaticEX.dll
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\obj\Debug\netcoreapp3.1\StaticEX.pdb
+C:\Users\Owner\OneDrive\Desktop\Repos\StaticEX\obj\Debug\netcoreapp3.1\StaticEX.genruntimeconfig.cache
